@@ -1,3 +1,6 @@
+"use client"
+export const dynamic = 'force-dynamic'
+export const revalidate = 0
 import { SafetyDocumentsDashboard } from "@/components/safety-documents-dashboard"
 
 // Deployment trigger comment - updated for Supabase connection - 2025-01-27
